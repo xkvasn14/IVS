@@ -1,0 +1,3 @@
+xdvora3k 130% (design, funkčnost, celou kalkulačku bez knihovny, makefile, dokumentace kódu k kalkulačce)
+xkuzel08 85% (manuál, návod k instalaci, mockup)
+xkvasn14 85% (knihovnu, matematické testy, odchylku, dokumentaci ke knihovně a testům, protokol)

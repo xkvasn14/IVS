@@ -1,0 +1,6 @@
+Datum odevzdání:
+28.04.2020 v 21:36:50
+
+Způsob odevzdání:
+Nahrání archivu přes WinSCP
+
